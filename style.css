@@ -1,0 +1,44 @@
+.navbar {
+    display: flex;   
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.logo_navbar {
+    padding: 0;
+    margin: 0%;
+    width: 150px;
+    height: 50px;
+    text-align: left;
+}
+.ul_navbar {
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul_navbar a {
+    text-decoration: none;
+
+}
+.ul_navb :hover{
+
+}
+
+.download {
+    color: #fc6063;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position:relative;
+    display: flex;
+    text-align: right;
+    background-color: floralwhite;
+    border: 2px solid #fc6063;
+    border-radius: 5cm;
+
+}
