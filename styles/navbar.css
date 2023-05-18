@@ -1,8 +1,13 @@
+body {
+    background-color: #f3fafb;
+    flex-direction: column;
+    width: 1000px;
+    margin: auto;
+}
 .navbar {
     display: flex;
-    background-color: whitesmoke; /* <==== comprobation color*/
     margin: auto;
-    padding: 30px 80px;
+    padding: 20px 80px;
     position: sticky;
     align-items: center;   
     justify-content: space-between;
@@ -39,7 +44,7 @@
     color: #fc6063;
     font-family: italic;
     font-weight: bolder;
-    background-color: white;
+    background-color: #f3fafb;
     border: 2px solid #fc6063;
     border-radius:15px;
     padding: 7px 20px;
