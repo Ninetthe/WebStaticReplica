@@ -4,6 +4,7 @@
     padding: 0px 80px;
     align-items: center;   
     justify-content: space-between;
+    background-color: #f3fafb;
 }
 .decorative_main {
     display: flex;
