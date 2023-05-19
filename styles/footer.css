@@ -1,0 +1,13 @@
+.footer{
+    margin: auto;
+    padding: 15px 80px;
+    background-color: #f3fafb;
+
+}
+.footer_contact {
+    padding: 20px 0px;
+    display: flex;
+    justify-content:space-between ;
+    flex-direction: row;
+
+}

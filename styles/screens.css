@@ -1,0 +1,63 @@
+.screens {
+
+    margin: auto;
+    padding: 15px 80px;
+    background-color: #f3fafb;
+}
+.icons_general_ultima_vista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px 0px;
+    background-color: #dbe9e6;
+}
+
+.icons_general_ultima_vista li {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.icons_general_ultima_vista li p {
+    text-align: center;
+    padding: 0;
+}
+.iphone_screens {
+    display: flex;
+    flex-direction: column;
+
+}
+.diamond_screens {
+    margin-left: 500px;
+    height: 30px;
+    width: 30px;
+    padding-top: 30px;
+}
+.blue_circule {
+    margin-left: 700px;
+    height: 50px;
+    width: 50px;
+}
+.iphone_screens_tamaño {
+    width: 70%;
+    height: 70%;
+    margin-left: 250px;
+}
+.yellow_circule {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 50px;
+    margin-left: 200px;
+
+}
+.parrafo_final {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.parrafo_final li {
+    margin-bottom: 20px;
+    text-decoration: none;
+    text-align: center;
+}
